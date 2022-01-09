@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0578bb77-1ed2-4a26-bb8f-2e7286c3ad42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/company/Lista01/Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/company/Lista01/Q4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lista01/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lista01/Q5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +92,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Application.Q4">
