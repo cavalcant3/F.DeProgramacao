@@ -8,9 +8,13 @@ public class Q1 {
     public static void main(String[] args) {
         System.out.println("Informe o valor do produto");
         //aqui vair ser um leitor para o usuario
-        double Valor = 15.5;
-        Valor = Valor * 0.09;
-        System.out.println("O novo valor é" + Valor);
+//        Aqui pegamos o valor inicial
+        double ValorI = 15.5;
+        double Desconto = 0.09;
+//          Aqui pegamos o vlaor inicial, multiplicamos pelo valor do desconto
+//          e depois subtraimos do valor original, atribuindo o valor a nova variavel.
+        double  NovoValor = ValorI - (ValorI * Desconto);
+        System.out.println("O novo valor é" + NovoValor);
     }
 
 }
