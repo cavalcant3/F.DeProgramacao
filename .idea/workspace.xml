@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0578bb77-1ed2-4a26-bb8f-2e7286c3ad42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q2/TestLocadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q2/Locadora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,15 +96,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Q1 (1)">
-    <configuration name="Q1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.segundoBimestre.lista01.Q1" />
+  <component name="RunManager" selected="Application.TestLocadora">
+    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lista01.Q1" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.segundoBimestre.lista01.*" />
+          <option name="PATTERN" value="com.company.Lista01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +116,11 @@
       </method>
     </configuration>
     <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lista01.Q1" />
+      <option name="MAIN_CLASS_NAME" value="com.company.segundoBimestre.lista01.Q1" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lista01.*" />
+          <option name="PATTERN" value="com.company.segundoBimestre.lista01.Q2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,20 +167,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestLocadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.segundoBimestre.lista01.Q2.TestLocadora" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.segundoBimestre.lista01.Q2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Q1" />
       <item itemvalue="Application.Q2" />
       <item itemvalue="Application.Q3" />
       <item itemvalue="Application.Q4" />
-      <item itemvalue="Application.Q1 (1)" />
+      <item itemvalue="Application.TestLocadora" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q1 (1)" />
+        <item itemvalue="Application.TestLocadora" />
+        <item itemvalue="Application.Q1" />
         <item itemvalue="Application.Q4" />
         <item itemvalue="Application.Q3" />
         <item itemvalue="Application.Q2" />
-        <item itemvalue="Application.Q1" />
       </list>
     </recent_temporary>
   </component>
