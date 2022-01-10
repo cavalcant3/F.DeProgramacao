@@ -2,7 +2,8 @@ package com.company.segundoBimestre.lista01;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
-
+//Faça um programa em Java que calcule e apresente o valor do volume de uma lata de
+//óleo, utilizando a fórmula VOLUME = pi * RAIO*2* ALTURA.
 public class Q4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

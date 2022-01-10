@@ -3,9 +3,10 @@ package com.company.segundoBimestre.lista01;
 import java.text.DecimalFormat;
 import java.text.Format;
 import java.text.SimpleDateFormat;
-import java.time.LocalDateTime;
 import java.util.Scanner;
-
+//Faça um programa em Java que após a entrada de uma determinada distância entre
+//dois pontos(Km), e uma determinada velocidade(Km/h), diga qual o tempo médio que levará para
+//chegada à esse local e qual a velocidade em metros/segundos.
 public class Q3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
