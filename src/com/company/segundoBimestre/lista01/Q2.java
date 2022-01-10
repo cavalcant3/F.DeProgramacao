@@ -7,5 +7,6 @@ package com.company.segundoBimestre.lista01;
 public class Q2 {
     public static void main(String[] args) {
 
+
     }
 }
