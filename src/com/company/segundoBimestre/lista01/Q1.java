@@ -7,7 +7,7 @@ package com.company.segundoBimestre.lista01;
 public class Q1 {
     public static void main(String[] args) {
         System.out.println("Informe o valor do produto");
-        //aqui vair ser um leitor para o usuario
+        //aqui vai ser um leitor para o usuario
 //        Aqui pegamos o valor inicial
         double ValorI = 15.5;
         double Desconto = 0.09; //poderiamos fazer da seguinte maneira : double Desconto = Valor1 * 0.09;
