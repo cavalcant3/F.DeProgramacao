@@ -27,7 +27,7 @@ public class Locadora {
         //        calculando valor do desconto
         double Desconto = (DiariaVFinal + KmVFinal) * 0.10;
 //              valor final
-        double ValorDescontoo = (DiariaVFinal + KmVFinal) - Desconto;
+        double ValorDesconto = (DiariaVFinal + KmVFinal) - Desconto;
 //        retornando o valor final e enviando a TestLocadora.java
         return ValorDesconto;
     }
