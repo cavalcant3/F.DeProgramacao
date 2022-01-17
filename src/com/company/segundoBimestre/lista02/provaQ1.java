@@ -7,7 +7,7 @@ public class provaQ1 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Informe o número de edeficações: ");
         int edficacoes = sc.nextInt();
-        System.out.println("Informe o número de edeficações: ");
+        System.out.println("Informe o valor da agua: ");
         double valorAgua = sc.nextDouble();
 
         double consumoResidencial = 0;
@@ -20,29 +20,35 @@ public class provaQ1 {
             System.out.println("2 - comercial");
             System.out.println("3 - industrial");
             int categoria = sc.nextInt();
-            if (categoria == 1 ){
-                System.out.println("Informe o consumo de agua");
-                 consumoResidencial = sc.nextDouble();
-            }
-            if (categoria == 2) {
-                System.out.println("Informe o consumo de agua");
-                 consumoComercial = sc.nextDouble();
-            } else {
-                System.out.println("Informe o consumo de agua");
-                 consumoIndustrial = sc.nextDouble();
-            }
 
-            double taxaEsgoto = (consumoComercial + consumoIndustrial + consumoResidencial) * 0.2;
-            double mediaDeConsumo = (consumoComercial + consumoIndustrial + consumoResidencial)/4;
-            System.out.println("A taxa de esgoto é: " + taxaEsgoto);
-            System.out.println("A média de consumo é: " + mediaDeConsumo);
-            System.out.println("O total de consumo da cetegoria 1 é: " + consumoResidencial);
-            System.out.println("O total de consumo da cetegoria 2 é: " + consumoComercial);
-            System.out.println("O total de consumo da cetegoria 3 é: " + consumoIndustrial);
+            switch (categoria) {
+                case 1:
+                    System.out.println("Informe o consumo de agua");
+                    consumoResidencial = sc.nextDouble();
+                    break;
+                case 2:
+                    System.out.println("Informe o consumo de agua");
+                    consumoComercial = sc.nextDouble();
+                    break;
+                case 3:
+                    System.out.println("Informe o consumo de agua");
+                    consumoIndustrial = sc.nextDouble();
+                    break;
+            }
 
 
         }
 
+        double taxaEsgoto = (consumoComercial + consumoIndustrial + consumoResidencial) * 0.2;
+        double mediaDeConsumo = (consumoComercial + consumoIndustrial + consumoResidencial) / 4;
+        System.out.println("A taxa de esgoto é: " + taxaEsgoto);
+        System.out.println("A média de consumo é: " + mediaDeConsumo);
+        System.out.println("O total de consumo da cetegoria 1 é: " + consumoResidencial);
+        System.out.println("O total de consumo da cetegoria 2 é: " + consumoComercial);
+        System.out.println("O total de consumo da cetegoria 3 é: " + consumoIndustrial);
+
 
     }
+
+
 }
