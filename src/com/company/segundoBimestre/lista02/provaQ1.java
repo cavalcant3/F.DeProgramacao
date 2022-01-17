@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class provaQ1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Informe o número de edeficações: ");
+        System.out.println("Informe o número de edficações: ");
         int edficacoes = sc.nextInt();
         System.out.println("Informe o valor da agua: ");
         double valorAgua = sc.nextDouble();
