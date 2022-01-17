@@ -14,7 +14,7 @@ public class provaQ1 {
         double consumoComercial = 0;
         double consumoIndustrial = 0;
 
-        for (int i = 0; i <= edficacoes; i++) {
+        for (int i = 0; i < edficacoes; i++) {
             System.out.println("informe sua categoria");
             System.out.println("1 - residencial");
             System.out.println("2 - comercial");
