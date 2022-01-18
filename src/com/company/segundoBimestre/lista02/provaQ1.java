@@ -13,7 +13,7 @@ public class provaQ1 {
         double consumoResidencial = 0;
         double consumoComercial = 0;
         double consumoIndustrial = 0;
-
+//              repetição dos imoveis
         for (int i = 0; i < edficacoes; i++) {
             System.out.println("informe sua categoria");
             System.out.println("1 - residencial");
@@ -38,6 +38,7 @@ public class provaQ1 {
 
 
         }
+//        verificações
 
         if (consumoComercial> consumoIndustrial && consumoComercial > consumoResidencial){
             System.out.println("O maior consumo é o comercial");
@@ -48,6 +49,7 @@ public class provaQ1 {
         if (consumoResidencial > consumoComercial && consumoResidencial > consumoIndustrial){
             System.out.println("O maior consumo é o residencial");
         }
+//        calculos
         double taxaEsgoto = (consumoComercial + consumoIndustrial + consumoResidencial) * 0.2 + valorAgua;
         double mediaDeConsumo = (consumoComercial + consumoIndustrial + consumoResidencial) / 4;
         System.out.println("A taxa de esgoto é: " + taxaEsgoto);
