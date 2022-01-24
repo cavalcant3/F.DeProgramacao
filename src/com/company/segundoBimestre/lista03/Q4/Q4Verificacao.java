@@ -1,4 +1,4 @@
-package com.company.segundoBimestre.lista03;
+package com.company.segundoBimestre.lista03.Q4;
 
 public class Q4Verificacao {
     //        criando um array para verificação de estados
