@@ -18,6 +18,25 @@ public class MiniTeste {
         String exposicao = sc.next().toLowerCase();
 
         while (PSNR > 0 && PSNR < 100) {
+            if (PSNR <= 49) {
+                if (enquadramento.equals("excelente") && exposicao.equals("bemexposta")) {
+                    System.out.println("boa");
+                    break;
+
+                } else {
+                    System.out.println("lixo");
+                    break;
+                }
+            }
+            if (PSNR > 50 && PSNR < 80) {
+                if (enquadramento.equals("excelente") || exposicao.equals("bemexposta")) {
+                    System.out.println("boa");
+                    break;
+                } else {
+                    System.out.println("marromeno");
+                    break;
+                }
+            }
             if (enquadramento.equals("bom") && exposicao.equals("bemexposta")) {
                 System.out.println("para imprimir");
                 break;
@@ -34,28 +53,6 @@ public class MiniTeste {
                 break;
             }
 
-
-        }
-        while (PSNR < 50 && PSNR > 80) {
-            if (enquadramento.equals("excelente") || exposicao.equals("bemexposta")) {
-                System.out.println("boa");
-                break;
-
-            } else {
-                System.out.println("marromeno");
-                break;
-            }
-
-        }
-        while (PSNR <= 49) {
-            if (enquadramento.equals("excelente") && exposicao.equals("bemexposta")) {
-                System.out.println("boa");
-                        break;
-
-            } else {
-                System.out.println("lixo");
-                break;
-            }
 
         }
 
