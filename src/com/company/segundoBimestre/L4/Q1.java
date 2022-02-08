@@ -1,7 +1,9 @@
 package com.company.segundoBimestre.L4;
 
 import java.util.Scanner;
-
+/*Questão 01.Construa um programa que, para um grupo de 50 valores inteiros, determine:
+a) A soma dos números positivos;
+b) A quantidade de valores negativos*/
 public class Q1 {
     public static void main(String[] args) {
         int i = 0;
