@@ -1,4 +1,4 @@
-package com.company.segundoBimestre.L4;
+package com.company.segundoBimestre.lista04;
 
 import java.util.Scanner;
 /*Questão 01.Construa um programa que, para um grupo de 50 valores inteiros, determine:

@@ -1,4 +1,4 @@
-package com.company.segundoBimestre.L4;
+package com.company.segundoBimestre.lista04;
 
 import java.util.Scanner;
 
