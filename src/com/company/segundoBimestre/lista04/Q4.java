@@ -13,14 +13,14 @@ candidato. A entrada de dados deve parar quando for informada a matrícula 999*/
 
         Scanner sc = new Scanner(System.in);
         String matricula, matricularMenor = null;
-        float cre, menor = 0, creMedio, soma = 0;
+        int cre, menor = 0, creMedio, soma = 0;
         int cont = 0;
 
         System.out.println("Digite a matricula");
         matricula = sc.next();
         while (!matricula.equals("999")) {
-            System.out.println("Digite o cre: ");
-            cre = sc.nextFloat();
+            System.out.println("digite o cre:");
+            cre = sc.nextInt();
             cont++;
             if (cont == 1) {
                 menor = cre;
@@ -31,18 +31,15 @@ candidato. A entrada de dados deve parar quando for informada a matrícula 999*/
                     matricularMenor = matricula;
                 }
             }
-            soma+=cre;
-            System.out.println("Digite a matricula: ");
+            soma += cre;
+            System.out.println("Digite a matricula");
             matricula = sc.next();
         }
         if (cont>0){
-            creMedio= soma/cont;
-            System.out.println("cre medio" +creMedio);
-            System.out.println("Matricula do aluno com menor cre"+ matricularMenor);
-        }else{
-            System.out.println("Nenhum inscrito");
+            creMedio = soma/cont;
+            System.out.println("cre medio:"+creMedio);
+            System.out.println("matricula menor:"+matricularMenor);
         }
-
 
 
     }
