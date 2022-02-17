@@ -17,7 +17,7 @@ public class q2 {
             DecimalFormat df = new DecimalFormat("#.##");
             peso = sc.nextDouble();df.format(peso);
            // total = (peso+tot);
-            if (peso<=2){
+            if (peso<=800){
                 total += peso;
             cont++;
             } else{
@@ -25,7 +25,7 @@ public class q2 {
                 break;
             }
 
-        }while (total<2);
+        }while (total<800);
 
         System.out.println("limite excedido");
         System.out.println("transporrtando um total de: "+cont+ " pessoas");
