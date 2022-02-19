@@ -4,49 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0578bb77-1ed2-4a26-bb8f-2e7286c3ad42" name="Changes" comment="resolucao">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista05/q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista05/q3.java" afterDir="false" />
+    <list default="true" id="0578bb77-1ed2-4a26-bb8f-2e7286c3ad42" name="Changes" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8c3d00cf84cb8fdec0357fa3711ad8d504a4af7" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lista01/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Lista01/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lista01/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Lista01/Q2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lista01/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Lista01/Q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lista01/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Lista01/Q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lista01/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Lista01/Q5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista01/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q2/Locadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista01/Q2/Locadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q2/TestLocadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista01/Q2/TestLocadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista01/Q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista01/Q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista02/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista02/Q2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista02/Q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista02/Q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista02/Q5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/provaQ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista02/provaQ1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/provaQ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista02/provaQ2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/MiniTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista03/MiniTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/MiniTesteTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista03/MiniTesteTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista03/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista03/Q2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista03/Q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q4/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista03/Q4/Q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q4/Q4Verificacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista03/Q4/Q4Verificacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista03/Q5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista03/Q6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista04/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista04/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista04/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista04/Q2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista04/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista04/Q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista04/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista04/Q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista04/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista04/Q5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista04/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista04/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista-PT2-pseudocódigo/Q1-CALCULAR NUMERO REAL.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista-PT2-pseudocódigo/Q2-CONVERTER HORAS MINUTOS E SEGUNDOS.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista-PT2-pseudocódigo/Q3-CAMPEõES.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista-PT2-pseudocódigo/QUESTAO4.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista-PT2-pseudocódigo/QUESTAO5.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lista01/Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lista01/Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lista01/Q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lista01/Q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lista01/Q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q2/Locadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q2/TestLocadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/Q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/Q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/Q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/provaQ1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/provaQ2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/MiniTeste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/MiniTesteTeste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q4/Q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q4/Q4Verificacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista04/Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista04/Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista04/Q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista04/Q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista04/Q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista04/Q6.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista05/Q1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista05/q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista05/q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista05/q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista05/q1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +64,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -353,7 +361,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645142060318</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary=".">
+      <created>1645307741036</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1645307741036</updated>
+    </task>
+    <task id="LOCAL-00019" summary=".">
+      <created>1645307839384</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1645307839384</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -384,12 +406,12 @@
     <MESSAGE value="testando commit pela ide" />
     <MESSAGE value="adicionando questão" />
     <MESSAGE value="em resolução" />
-    <MESSAGE value="." />
     <MESSAGE value="ajustes" />
     <MESSAGE value="resolução" />
     <MESSAGE value="iniciando" />
     <MESSAGE value="resolucao" />
-    <option name="LAST_COMMIT_MESSAGE" value="resolucao" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/F_DeProgramacao$Q5.ic" NAME="Q5 Coverage Results" MODIFIED="1644989458001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
