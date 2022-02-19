@@ -1,12 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0578bb77-1ed2-4a26-bb8f-2e7286c3ad42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q2/TestLocadora.java" afterDir="false" />
+    <list default="true" id="0578bb77-1ed2-4a26-bb8f-2e7286c3ad42" name="Changes" comment="resolucao">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista05/q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista05/q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8c3d00cf84cb8fdec0357fa3711ad8d504a4af7" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q2/Locadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lista01/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Lista01/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lista01/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Lista01/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lista01/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Lista01/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lista01/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Lista01/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lista01/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Lista01/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista01/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q2/Locadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista01/Q2/Locadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q2/TestLocadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista01/Q2/TestLocadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista01/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista01/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista01/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista02/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista02/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista02/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista02/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista02/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/provaQ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista02/provaQ1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista02/provaQ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista02/provaQ2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/MiniTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista03/MiniTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/MiniTesteTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista03/MiniTesteTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista03/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista03/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista03/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q4/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista03/Q4/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q4/Q4Verificacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista03/Q4/Q4Verificacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista03/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista03/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista03/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista04/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista04/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista04/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista04/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista04/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista04/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista04/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista04/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista04/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista04/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista04/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista04/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista05/Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/segundoBimestre/lista05/q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/segundoBimestre/lista05/q2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,19 +135,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.TestLocadora">
-    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lista01.Q1" />
+  <component name="RunManager" selected="Application.q1">
+    <configuration name="Q1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.segundoBimestre.lista05.Q1" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lista01.*" />
+          <option name="PATTERN" value="com.company.segundoBimestre.lista05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.segundoBimestre.lista01.Q1" />
+    <configuration name="Q6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.segundoBimestre.lista04.Q6" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.segundoBimestre.lista01.Q2.*" />
+          <option name="PATTERN" value="com.company.segundoBimestre.lista04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lista01.Q2" />
+    <configuration name="q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.segundoBimestre.lista05.q1" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lista01.*" />
+          <option name="PATTERN" value="com.company.segundoBimestre.lista05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lista01.Q3" />
+    <configuration name="q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.segundoBimestre.lista05.q2" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lista01.*" />
+          <option name="PATTERN" value="com.company.segundoBimestre.lista05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,25 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lista01.Q4" />
+    <configuration name="q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.segundoBimestre.lista05.q3" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lista01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestLocadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.segundoBimestre.lista01.Q2.TestLocadora" />
-      <module name="untitled104" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.segundoBimestre.lista01.Q2.*" />
+          <option name="PATTERN" value="com.company.segundoBimestre.lista05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,19 +209,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q1" />
-      <item itemvalue="Application.Q2" />
-      <item itemvalue="Application.Q3" />
-      <item itemvalue="Application.Q4" />
-      <item itemvalue="Application.TestLocadora" />
+      <item itemvalue="Application.Q6" />
+      <item itemvalue="Application.Q1 (1)" />
+      <item itemvalue="Application.q3" />
+      <item itemvalue="Application.q1" />
+      <item itemvalue="Application.q2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestLocadora" />
-        <item itemvalue="Application.Q1" />
-        <item itemvalue="Application.Q4" />
-        <item itemvalue="Application.Q3" />
-        <item itemvalue="Application.Q2" />
+        <item itemvalue="Application.q1" />
+        <item itemvalue="Application.q2" />
+        <item itemvalue="Application.q3" />
+        <item itemvalue="Application.Q1 (1)" />
+        <item itemvalue="Application.Q6" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +234,126 @@
       <option name="presentableId" value="Default" />
       <updated>1640166271063</updated>
     </task>
+    <task id="LOCAL-00001" summary="testando commit pela ide">
+      <created>1644321454210</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644321454210</updated>
+    </task>
+    <task id="LOCAL-00002" summary="resolução">
+      <created>1644322048421</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644322048421</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adicionando questão">
+      <created>1644322155319</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644322155319</updated>
+    </task>
+    <task id="LOCAL-00004" summary="resolução">
+      <created>1644324056963</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644324056963</updated>
+    </task>
+    <task id="LOCAL-00005" summary="resolução">
+      <created>1644325080703</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644325080703</updated>
+    </task>
+    <task id="LOCAL-00006" summary="em resolução">
+      <created>1644373286357</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644373286357</updated>
+    </task>
+    <task id="LOCAL-00007" summary=".">
+      <created>1644890245630</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644890245630</updated>
+    </task>
+    <task id="LOCAL-00008" summary="resolução">
+      <created>1644957255723</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1644957255723</updated>
+    </task>
+    <task id="LOCAL-00009" summary="iniciando">
+      <created>1644988807399</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644988807399</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ajustes">
+      <created>1644988833236</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1644988833236</updated>
+    </task>
+    <task id="LOCAL-00011" summary="resolução">
+      <created>1644989606384</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1644989606384</updated>
+    </task>
+    <task id="LOCAL-00012" summary="resolução">
+      <created>1644991309154</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1644991309154</updated>
+    </task>
+    <task id="LOCAL-00013" summary="iniciando">
+      <created>1644994005137</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1644994005137</updated>
+    </task>
+    <task id="LOCAL-00014" summary="resolucao">
+      <created>1645138822071</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1645138822071</updated>
+    </task>
+    <task id="LOCAL-00015" summary="resolucao">
+      <created>1645141358246</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1645141358246</updated>
+    </task>
+    <task id="LOCAL-00016" summary="resolucao">
+      <created>1645142031276</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1645142031276</updated>
+    </task>
+    <task id="LOCAL-00017" summary="resolucao">
+      <created>1645142060318</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1645142060318</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,11 +361,39 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testando commit pela ide" />
+    <MESSAGE value="adicionando questão" />
+    <MESSAGE value="em resolução" />
+    <MESSAGE value="." />
+    <MESSAGE value="ajustes" />
+    <MESSAGE value="resolução" />
+    <MESSAGE value="iniciando" />
+    <MESSAGE value="resolucao" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolucao" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/F_DeProgramacao$Q5.ic" NAME="Q5 Coverage Results" MODIFIED="1644989458001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.segundoBimestre.lista04.*</FILTER>
+    </SUITE>
   </component>
 </project>
