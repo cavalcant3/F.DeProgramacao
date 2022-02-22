@@ -29,7 +29,7 @@ public class q4 {
 
             }
             if (numero % 2 == 0) {
-                pares = numero;
+                pares += numero;
                 contadorPar++;
                 mediaPar= pares/contadorPar;
             }
