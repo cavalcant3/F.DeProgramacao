@@ -2,7 +2,7 @@ package main.java.com.company.revisao.parte1.lista04;
 
 import java.util.Scanner;
 
-public class q5 {
+public class q3 {
     public static void main(String[] args) {
         int idade=2;
         int somaIdade=0;
