@@ -25,6 +25,8 @@ em anos não bissextos.
                     } else {
                         System.out.println("data inválida");
                     }
+                } else {
+                    System.out.println("não é bissexto");
                 }
                 break;
             case 1:
