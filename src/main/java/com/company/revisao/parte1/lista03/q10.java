@@ -21,8 +21,7 @@ em anos não bissextos.
                 if (bissexto) {
                     if ((dia <= 29) && (dia > 0)) {
                         System.out.println("data valida");
-                    } else if ((dia <= 28) && (dia > 0)) {
-                        System.out.println("data válida");
+
                     } else {
                         System.out.println("data inválida");
                     }
