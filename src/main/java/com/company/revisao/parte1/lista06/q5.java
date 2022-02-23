@@ -32,7 +32,7 @@ public class q5 {
             } else if ((qualidade >= 7) && (preco >= 7)) {
                 notaGeral = mediaNota = (qualidade + preco + prazo) / 3;
             } else if ((qualidade >= 7) && (preco < 7)) {
-                notaGeral = (qualidade + 2 * preco + prazo) / 4;
+                notaGeral = (qualidade + (2 * preco) + prazo) / 4;
             }
             if (notaGeral > notaMaior) {
                 notaMaior = notaGeral;
