@@ -5,8 +5,6 @@ import java.util.Scanner;
 public class q3 {
     public static void main(String[] args) {
         int numero=0;
-        int impar=0;
-        int par=0;
         int soma=0;
         int produto=1;
         Scanner sc = new Scanner(System.in);
