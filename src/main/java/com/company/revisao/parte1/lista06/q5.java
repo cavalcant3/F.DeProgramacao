@@ -38,6 +38,7 @@ public class q5 {
                 notaMaior = notaGeral;
                 vencedor = i;
             }
+            System.out.println("proposta n°: "+i+" nota:"+notaGeral);
         }
         System.out.println("Vencedor proposta n°: " + vencedor);
         System.out.println("nota: " + notaMaior);
